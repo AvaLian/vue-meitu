@@ -2,7 +2,7 @@
 看着各位大神的vue项目泉涌而出,本阶段正在学习Vue的小小白也打算亲自操起键盘来感受一把Vue世界的美好~~
 
 **线上体验** <br>
-   [在线demo](https://vue-meitu-demo/vuex-meitu-demo/index.html#/) （切换到移动端模式预览效果更佳~）<br>
+   [在线demo](https://zsqio.github.io/vue-meitu-demo/vuex-meitu-demo/index.html#/) （切换到移动端模式预览效果更佳~）<br>
    [Github源码](https://github.com/zsqio/vue-meitu)  <br>
 
 **技术栈** <br>
