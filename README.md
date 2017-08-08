@@ -15,8 +15,8 @@
   * html5 css3  <br>
   
 **页面预览** <br>
-![image](https://raw.githubusercontent.com/zsqio/zsqio.github.io/master/vuex-meitu-demo/demo-images/7.gif) <br>
-![image](https://raw.githubusercontent.com/zsqio/zsqio.github.io/master/vuex-meitu-demo/demo-images/1.gif) <br>
+![image](https://github.com/zsqio/vue-meitu-demo/blob/master/vuex-meitu-demo/demo-images/7.gif) <br>
+![image](https://github.com/zsqio/vue-meitu-demo/blob/master/vuex-meitu-demo/demo-images/1.gif) <br>
 
  ## 主要实现功能 <br>
   **商品信息展示**  <br>
